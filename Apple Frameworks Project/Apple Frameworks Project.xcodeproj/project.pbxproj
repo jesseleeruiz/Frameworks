@@ -56,10 +56,10 @@
 			children = (
 				8072163C2559F55B00BB0F22 /* Apple_Frameworks_ProjectApp.swift */,
 				8072163E2559F55B00BB0F22 /* FrameworkGridView.swift */,
+				8072164D2559F67900BB0F22 /* Framework.swift */,
 				807216402559F56200BB0F22 /* Assets.xcassets */,
 				807216452559F56200BB0F22 /* Info.plist */,
 				807216422559F56200BB0F22 /* Preview Content */,
-				8072164D2559F67900BB0F22 /* Framework.swift */,
 			);
 			path = "Apple Frameworks Project";
 			sourceTree = "<group>";
