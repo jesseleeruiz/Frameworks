@@ -20,6 +20,7 @@ struct FrameworkDetailView: View {
             Spacer()
             
             FrameworkTitleView(framework: framework)
+            
             Text(framework.description)
                 .font(.body)
                 .padding()
