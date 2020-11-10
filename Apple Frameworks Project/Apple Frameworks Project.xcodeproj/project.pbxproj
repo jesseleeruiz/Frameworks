@@ -16,6 +16,8 @@
 		80721657255A013E00BB0F22 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80721656255A013E00BB0F22 /* AFButton.swift */; };
 		8072165A255A090300BB0F22 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80721659255A090300BB0F22 /* FrameworkGridViewModel.swift */; };
 		8072165D255A34EF00BB0F22 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8072165C255A34EF00BB0F22 /* SafariView.swift */; };
+		80721660255B554900BB0F22 /* FrameworkTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8072165F255B554900BB0F22 /* FrameworkTitleView.swift */; };
+		80721663255B55A700BB0F22 /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80721662255B55A700BB0F22 /* XDismissButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		80721656255A013E00BB0F22 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		80721659255A090300BB0F22 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 		8072165C255A34EF00BB0F22 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
+		8072165F255B554900BB0F22 /* FrameworkTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkTitleView.swift; sourceTree = "<group>"; };
+		80721662255B55A700BB0F22 /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				80721656255A013E00BB0F22 /* AFButton.swift */,
 				80721659255A090300BB0F22 /* FrameworkGridViewModel.swift */,
 				8072165C255A34EF00BB0F22 /* SafariView.swift */,
+				8072165F255B554900BB0F22 /* FrameworkTitleView.swift */,
+				80721662255B55A700BB0F22 /* XDismissButton.swift */,
 			);
 			path = "Apple Frameworks Project";
 			sourceTree = "<group>";
@@ -155,10 +161,12 @@
 			files = (
 				807216532559FF4900BB0F22 /* FrameworkDetailView.swift in Sources */,
 				8072163F2559F55B00BB0F22 /* FrameworkGridView.swift in Sources */,
+				80721663255B55A700BB0F22 /* XDismissButton.swift in Sources */,
 				8072164E2559F67900BB0F22 /* Framework.swift in Sources */,
 				80721657255A013E00BB0F22 /* AFButton.swift in Sources */,
 				8072163D2559F55B00BB0F22 /* Apple_Frameworks_ProjectApp.swift in Sources */,
 				8072165A255A090300BB0F22 /* FrameworkGridViewModel.swift in Sources */,
+				80721660255B554900BB0F22 /* FrameworkTitleView.swift in Sources */,
 				8072165D255A34EF00BB0F22 /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
